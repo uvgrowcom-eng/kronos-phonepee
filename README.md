@@ -3,3 +3,4 @@
 # kronos-3050
 # kronos-3050
 # kronos-shine
+# shineadminop
