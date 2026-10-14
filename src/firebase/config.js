@@ -14,13 +14,13 @@ import {
 } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDofemvEqfdNDp79CtTg_x6ujjElCAkGsI",
-  authDomain: "my-rto-b2531.firebaseapp.com",
-  databaseURL: "https://my-rto-b2531-default-rtdb.firebaseio.com",
-  projectId: "my-rto-b2531",
-  storageBucket: "my-rto-b2531.firebasestorage.app",
-  messagingSenderId: "465334829178",
-  appId: "1:465334829178:web:621d8269e0ace1e9f4fbc3"
+  apiKey: "AIzaSyC--vQSUehzMbD98TR1aENe3GGKhkBWghA",
+  authDomain: "ui3050-e45b9.firebaseapp.com",
+  databaseURL: "https://ui3050-e45b9-default-rtdb.firebaseio.com",
+  projectId: "ui3050-e45b9",
+  storageBucket: "ui3050-e45b9.firebasestorage.app",
+  messagingSenderId: "63001370231",
+  appId: "1:63001370231:web:bfc31768005b18867bb072"
 };
 
 const app = initializeApp(firebaseConfig);
