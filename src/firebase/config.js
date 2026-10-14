@@ -14,13 +14,13 @@ import {
 } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAHjykH13muJMOdkFaEehUkHvWcSUCLT3Y",
-  authDomain: "bajaj-instant-approve.firebaseapp.com",
-  databaseURL: "https://bajaj-instant-approve-default-rtdb.firebaseio.com",
-  projectId: "bajaj-instant-approve",
-  storageBucket: "bajaj-instant-approve.firebasestorage.app",
-  messagingSenderId: "662103149147",
-  appId: "1:662103149147:web:b95d50add890ef44448d7e"
+  apiKey: "AIzaSyDofemvEqfdNDp79CtTg_x6ujjElCAkGsI",
+  authDomain: "my-rto-b2531.firebaseapp.com",
+  databaseURL: "https://my-rto-b2531-default-rtdb.firebaseio.com",
+  projectId: "my-rto-b2531",
+  storageBucket: "my-rto-b2531.firebasestorage.app",
+  messagingSenderId: "465334829178",
+  appId: "1:465334829178:web:621d8269e0ace1e9f4fbc3"
 };
 
 const app = initializeApp(firebaseConfig);
